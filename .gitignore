@@ -1,0 +1,8 @@
+# Segredos (Wi-Fi e APIKEY do CallMeBot)
+robo/secrets.h
+
+# Banco local e ambiente Python
+*.db
+__pycache__/
+venv/
+.venv/
