@@ -6,3 +6,9 @@ robo/secrets.h
 __pycache__/
 venv/
 .venv/
+
+# Edital 2
+.env
+secrets.h
+venv/
+__pycache__/
